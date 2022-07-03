@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.dong27th.cn/2022/07/03/other/configure/opencv/</loc>
+    
+    <lastmod>2022-07-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dong27th.cn/2022/04/06/other/homework/DealingWithPeriodicNoise/</loc>
+    
+    <lastmod>2022-07-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.dong27th.cn/aboutme/index.html</loc>
     
     <lastmod>2022-06-24</lastmod>
@@ -190,15 +208,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://www.dong27th.cn/2022/04/06/homework/DealingWithPeriodicNoise/</loc>
-    
-    <lastmod>2022-04-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://www.dong27th.cn/</loc>
@@ -281,13 +290,6 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/categories/homework/</loc>
-    <lastmod>2022-07-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.dong27th.cn/categories/Essay/</loc>
     <lastmod>2022-07-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -303,6 +305,27 @@
   
   <url>
     <loc>https://www.dong27th.cn/categories/CandCpp/DataStructureandAlgorithmAnalysis/</loc>
+    <lastmod>2022-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dong27th.cn/categories/other/</loc>
+    <lastmod>2022-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dong27th.cn/categories/other/configure/</loc>
+    <lastmod>2022-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dong27th.cn/categories/other/homework/</loc>
     <lastmod>2022-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
