@@ -218,13 +218,6 @@
 
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/C/</loc>
-    <lastmod>2022-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.dong27th.cn/tagsa/question/</loc>
     <lastmod>2022-07-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -232,14 +225,21 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/CSS/</loc>
+    <loc>https://www.dong27th.cn/tagsa/HTML/</loc>
     <lastmod>2022-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/HTML/</loc>
+    <loc>https://www.dong27th.cn/tagsa/C/</loc>
+    <lastmod>2022-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dong27th.cn/tagsa/CSS/</loc>
     <lastmod>2022-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -276,14 +276,14 @@
 
   
   <url>
-    <loc>https://www.dong27th.cn/categories/CandCpp/</loc>
+    <loc>https://www.dong27th.cn/categories/Web/</loc>
     <lastmod>2022-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/categories/Web/</loc>
+    <loc>https://www.dong27th.cn/categories/CandCpp/</loc>
     <lastmod>2022-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
