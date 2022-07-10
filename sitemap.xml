@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/2022/04/24/Essay/MilitaryTrainingDiary/MilitaryTrainingDiary6/</loc>
+    <loc>https://www.dong27th.cn/2022/04/24/Essay/MilitaryTrainingDiary/MilitaryTrainingDiary8/</loc>
     
     <lastmod>2022-04-25</lastmod>
     
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/2022/04/24/Essay/MilitaryTrainingDiary/MilitaryTrainingDiary8/</loc>
+    <loc>https://www.dong27th.cn/2022/04/24/Essay/MilitaryTrainingDiary/MilitaryTrainingDiary6/</loc>
     
     <lastmod>2022-04-25</lastmod>
     
@@ -234,6 +234,13 @@
   </url>
   
   <url>
+    <loc>https://www.dong27th.cn/tagsa/CSS/</loc>
+    <lastmod>2022-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.dong27th.cn/tagsa/C/</loc>
     <lastmod>2022-07-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -262,13 +269,6 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/CSS/</loc>
-    <lastmod>2022-07-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.dong27th.cn/tagsa/%E5%86%9B%E8%AE%AD/</loc>
     <lastmod>2022-07-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -283,14 +283,14 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/opencv/</loc>
+    <loc>https://www.dong27th.cn/tagsa/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</loc>
     <lastmod>2022-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</loc>
+    <loc>https://www.dong27th.cn/tagsa/opencv/</loc>
     <lastmod>2022-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -299,14 +299,14 @@
 
   
   <url>
-    <loc>https://www.dong27th.cn/categories/CandCpp/</loc>
+    <loc>https://www.dong27th.cn/categories/Web/</loc>
     <lastmod>2022-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/categories/Web/</loc>
+    <loc>https://www.dong27th.cn/categories/CandCpp/</loc>
     <lastmod>2022-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
