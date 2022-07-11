@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.dong27th.cn/2022/07/11/other/homework/CoinDetection/</loc>
+    
+    <lastmod>2022-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dong27th.cn/2022/07/03/other/configure/opencv/</loc>
+    
+    <lastmod>2022-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.dong27th.cn/2022/07/11/other/homework/fileCopy/</loc>
     
     <lastmod>2022-07-11</lastmod>
@@ -48,15 +66,6 @@
   
   <url>
     <loc>https://www.dong27th.cn/2022/07/09/other/configure/backup-for-bat/</loc>
-    
-    <lastmod>2022-07-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.dong27th.cn/2022/07/03/other/configure/opencv/</loc>
     
     <lastmod>2022-07-09</lastmod>
     
@@ -285,13 +294,6 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/opencv/</loc>
-    <lastmod>2022-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.dong27th.cn/tagsa/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</loc>
     <lastmod>2022-07-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -307,6 +309,13 @@
   
   <url>
     <loc>https://www.dong27th.cn/tagsa/C-C/</loc>
+    <lastmod>2022-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dong27th.cn/tagsa/OpenCv/</loc>
     <lastmod>2022-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
