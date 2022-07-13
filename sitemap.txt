@@ -1,3 +1,4 @@
+https://www.dong27th.cn/2022/07/09/other/configure/backup-for-bat/
 https://www.dong27th.cn/2022/07/11/other/homework/CoinDetection/
 https://www.dong27th.cn/2022/07/03/other/configure/opencv/
 https://www.dong27th.cn/2022/07/11/other/homework/fileCopy/
@@ -5,7 +6,6 @@ https://www.dong27th.cn/2022/05/27/CandCpp/TheTricksForC/
 https://www.dong27th.cn/2022/05/29/CandCpp/DataStructureandAlgorithmAnalysis/DataStructureChapter3/
 https://www.dong27th.cn/2022/03/17/CandCpp/DataStructureandAlgorithmAnalysis/DataStructureChapter2/
 https://www.dong27th.cn/2022/03/07/CandCpp/DataStructureandAlgorithmAnalysis/DataStructureChapter1/
-https://www.dong27th.cn/2022/07/09/other/configure/backup-for-bat/
 https://www.dong27th.cn/2022/01/22/question/
 https://www.dong27th.cn/2022/04/06/other/homework/DealingWithPeriodicNoise/
 https://www.dong27th.cn/aboutme/index.html
