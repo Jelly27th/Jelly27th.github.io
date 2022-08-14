@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.dong27th.cn/todo/index.html</loc>
+    <loc>https://www.dong27th.cn/story/index.html</loc>
     
     <lastmod>2022-08-14</lastmod>
     
@@ -11,7 +11,16 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/story/index.html</loc>
+    <loc>https://www.dong27th.cn/2022/07/27/Essay/ThinkingThings/</loc>
+    
+    <lastmod>2022-08-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dong27th.cn/todo/index.html</loc>
     
     <lastmod>2022-08-14</lastmod>
     
@@ -23,15 +32,6 @@
     <loc>https://www.dong27th.cn/2022/03/17/CandCpp/DataStructureandAlgorithmAnalysis/DataStructureChapter2/</loc>
     
     <lastmod>2022-08-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.dong27th.cn/2022/07/27/Essay/ThinkingThings/</loc>
-    
-    <lastmod>2022-07-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -279,13 +279,6 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/CSS/</loc>
-    <lastmod>2022-08-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.dong27th.cn/tagsa/C-C/</loc>
     <lastmod>2022-08-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -293,7 +286,7 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/JavaScript/</loc>
+    <loc>https://www.dong27th.cn/tagsa/CSS/</loc>
     <lastmod>2022-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -301,6 +294,13 @@
   
   <url>
     <loc>https://www.dong27th.cn/tagsa/HTML/</loc>
+    <lastmod>2022-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dong27th.cn/tagsa/JavaScript/</loc>
     <lastmod>2022-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -321,14 +321,7 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/GalGame/</loc>
-    <lastmod>2022-08-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.dong27th.cn/tagsa/9nine/</loc>
+    <loc>https://www.dong27th.cn/tagsa/bat/</loc>
     <lastmod>2022-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -336,13 +329,6 @@
   
   <url>
     <loc>https://www.dong27th.cn/tagsa/opencv/</loc>
-    <lastmod>2022-08-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.dong27th.cn/tagsa/bat/</loc>
     <lastmod>2022-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -362,17 +348,31 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://www.dong27th.cn/categories/Web/</loc>
+    <loc>https://www.dong27th.cn/tagsa/GalGame/</loc>
     <lastmod>2022-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
+    <loc>https://www.dong27th.cn/tagsa/9nine/</loc>
+    <lastmod>2022-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
     <loc>https://www.dong27th.cn/categories/CandCpp/</loc>
+    <lastmod>2022-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dong27th.cn/categories/Web/</loc>
     <lastmod>2022-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -407,13 +407,6 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/categories/other/mixed/</loc>
-    <lastmod>2022-08-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.dong27th.cn/categories/other/configure/</loc>
     <lastmod>2022-08-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -422,6 +415,13 @@
   
   <url>
     <loc>https://www.dong27th.cn/categories/other/homework/</loc>
+    <lastmod>2022-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dong27th.cn/categories/other/mixed/</loc>
     <lastmod>2022-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
