@@ -1,3 +1,4 @@
+https://www.dong27th.cn/2022/09/13/CandCpp/DataStructureandAlgorithmAnalysis/DataStructureChapter4/
 https://www.dong27th.cn/story/index.html
 https://www.dong27th.cn/todo/index.html
 https://www.dong27th.cn/2022/07/27/Essay/ThinkingThings/
@@ -35,10 +36,10 @@ https://www.dong27th.cn/tagsa/CSS/
 https://www.dong27th.cn/tagsa/HTML/
 https://www.dong27th.cn/tagsa/JavaScript/
 https://www.dong27th.cn/tagsa/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90/
-https://www.dong27th.cn/tagsa/bat/
 https://www.dong27th.cn/tagsa/opencv/
-https://www.dong27th.cn/tagsa/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/
+https://www.dong27th.cn/tagsa/bat/
 https://www.dong27th.cn/tagsa/Linux/
+https://www.dong27th.cn/tagsa/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/
 https://www.dong27th.cn/tagsa/GalGame/
 https://www.dong27th.cn/tagsa/9nine/
 https://www.dong27th.cn/categories/CandCpp/
