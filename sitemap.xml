@@ -403,6 +403,13 @@
   </url>
   
   <url>
+    <loc>https://www.dong27th.cn/tagsa/CSS/</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.dong27th.cn/tagsa/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -410,7 +417,7 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/CSS/</loc>
+    <loc>https://www.dong27th.cn/tagsa/JavaScript/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -431,20 +438,6 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/JavaScript/</loc>
-    <lastmod>2023-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.dong27th.cn/tagsa/bat/</loc>
-    <lastmod>2023-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.dong27th.cn/tagsa/opencv/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -453,13 +446,6 @@
   
   <url>
     <loc>https://www.dong27th.cn/tagsa/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</loc>
-    <lastmod>2023-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.dong27th.cn/tagsa/Linux/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -479,17 +465,24 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://www.dong27th.cn/categories/CandCpp/</loc>
+    <loc>https://www.dong27th.cn/tagsa/Linux/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/categories/Essay/</loc>
+    <loc>https://www.dong27th.cn/tagsa/bat/</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://www.dong27th.cn/categories/CandCpp/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -503,14 +496,14 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/categories/CandCpp/DataStructureandAlgorithmAnalysis/</loc>
+    <loc>https://www.dong27th.cn/categories/Essay/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/categories/Essay/MilitaryTrainingDiary/</loc>
+    <loc>https://www.dong27th.cn/categories/CandCpp/DataStructureandAlgorithmAnalysis/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -524,7 +517,7 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/categories/other/configure/</loc>
+    <loc>https://www.dong27th.cn/categories/Essay/MilitaryTrainingDiary/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -539,6 +532,13 @@
   
   <url>
     <loc>https://www.dong27th.cn/categories/other/mixed/</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dong27th.cn/categories/other/configure/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
