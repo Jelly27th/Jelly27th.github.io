@@ -456,27 +456,6 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/opencv/</loc>
-    <lastmod>2023-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.dong27th.cn/tagsa/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</loc>
-    <lastmod>2023-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.dong27th.cn/tagsa/Linux/</loc>
-    <lastmod>2023-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.dong27th.cn/tagsa/GalGame/</loc>
     <lastmod>2023-01-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -485,6 +464,13 @@
   
   <url>
     <loc>https://www.dong27th.cn/tagsa/9nine/</loc>
+    <lastmod>2023-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dong27th.cn/tagsa/Linux/</loc>
     <lastmod>2023-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -505,6 +491,13 @@
   </url>
   
   <url>
+    <loc>https://www.dong27th.cn/tagsa/python/</loc>
+    <lastmod>2023-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.dong27th.cn/tagsa/bat/</loc>
     <lastmod>2023-01-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -512,7 +505,14 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/python/</loc>
+    <loc>https://www.dong27th.cn/tagsa/opencv/</loc>
+    <lastmod>2023-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dong27th.cn/tagsa/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</loc>
     <lastmod>2023-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -563,14 +563,14 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/categories/other/homework/</loc>
+    <loc>https://www.dong27th.cn/categories/other/mixed/</loc>
     <lastmod>2023-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/categories/other/mixed/</loc>
+    <loc>https://www.dong27th.cn/categories/other/homework/</loc>
     <lastmod>2023-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
