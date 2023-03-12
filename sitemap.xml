@@ -460,14 +460,14 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/JavaScript/</loc>
+    <loc>https://www.dong27th.cn/tagsa/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90/</loc>
     <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90/</loc>
+    <loc>https://www.dong27th.cn/tagsa/JavaScript/</loc>
     <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -481,14 +481,14 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/matlab/</loc>
+    <loc>https://www.dong27th.cn/tagsa/bat/</loc>
     <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/bat/</loc>
+    <loc>https://www.dong27th.cn/tagsa/matlab/</loc>
     <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -544,14 +544,14 @@
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/windows/</loc>
+    <loc>https://www.dong27th.cn/tagsa/Davinci/</loc>
     <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.dong27th.cn/tagsa/Davinci/</loc>
+    <loc>https://www.dong27th.cn/tagsa/windows/</loc>
     <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -602,6 +602,13 @@
   </url>
   
   <url>
+    <loc>https://www.dong27th.cn/categories/other/%E6%9D%82/</loc>
+    <lastmod>2023-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.dong27th.cn/categories/other/coding/</loc>
     <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -617,13 +624,6 @@
   
   <url>
     <loc>https://www.dong27th.cn/categories/other/homework/</loc>
-    <lastmod>2023-03-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.dong27th.cn/categories/other/%E6%9D%82/</loc>
     <lastmod>2023-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
